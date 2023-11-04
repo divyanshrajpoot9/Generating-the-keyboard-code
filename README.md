@@ -1,5 +1,5 @@
 # Generating-the-keyboard-code
-### Hosted Link: 
+### Hosted Link: https://divyanshrajpoot9.github.io/Generating-the-keyboard-code/
 ### Java Script DOM Manipulation:
 The Document Object Model (DOM) is a programming interface for web documents. It provides a structured representation of a web page, allowing you to access and manipulate its elements and content using JavaScript. Here are some basic DOM properties and methods.
 document: The document object represents the entire HTML document and serves as the entry point to the DOM. It provides properties and methods to access and modify the document's structure, content, and style.
@@ -43,3 +43,4 @@ This JavaScript code is used to display information related to keyboard events o
 
 In summary, this code listens for 'keydown' and 'keypress' events on the document, and it displays both the character associated with the key pressed and the numeric key code of the key in the respective HTML elements. This can be used to show the user which key they pressed and its corresponding key code.
 
+![image](https://github.com/divyanshrajpoot9/Generating-the-keyboard-code/assets/114856467/b50b1bff-0927-4058-8c25-cc142f996af5)
